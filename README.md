@@ -13,7 +13,7 @@ A sleek and simple web app to search for high-quality images using the [Unsplash
 
 ## 📸 Preview
 
-![Preview Screenshot](Capture.png) <!-- Optional: add a screenshot of your app -->
+![Preview Screenshot](./Capture.png) <!-- Optional: add a screenshot of your app -->
 
 ## 🛠️ Built With
 

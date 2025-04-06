@@ -28,3 +28,14 @@ A sleek and simple web app to search for high-quality images using the [Unsplash
    ```bash
    git clone https://github.com/your-username/Image-Search-Engine.git
    cd Image-Search-Engine
+
+## 🙌 Acknowledgements
+
+- Thanks to [Unsplash](https://unsplash.com/) for providing such a beautiful collection of free images via their API.
+
+## 📫 Contact
+
+Got feedback or suggestions? Reach out to me:
+
+- GitHub: [@iamchiranjeevir](https://github.com/iamchiranjeevir)
+- Email: iamchiranjeeviramakrishna@gmail.com
